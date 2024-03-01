@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  profiles:
+    active:
+      - local
+#springdoc:
+# swagger-ui:
+   # configUrl: /social-marketing-communication/whatsapp/v1/api-docs/swagger-config

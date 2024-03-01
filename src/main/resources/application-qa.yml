@@ -1,0 +1,20 @@
+facebook:
+  access-token: 1o0D2AZDZD
+  api-version: https://graph.facebook.com/v17.0
+  my-number-id: 1223334
+  recipient-number: 1234
+  app-id: 2344
+  version: v17.0
+  verify-token: praneeth
+  wabaId: 124444
+
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      database: social-marketing-db
+      host: localhost
+      password: ad-pass
+      port: 27017
+      username: ad-admin
+customer-service: http://localhost:8080

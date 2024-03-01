@@ -1,0 +1,17 @@
+facebook:
+  access-token: err
+  api-version: https://graph.facebook.com/v16.0
+  my-number-id: 12233333333
+  recipient-number: 12344444444
+  verify-token: praneeth
+
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      database: social-marketing
+      host: localhost
+      password: admin
+      port: 27017
+      username: admin
+customer-service: http://localhost:8080/
